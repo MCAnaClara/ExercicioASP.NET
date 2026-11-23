@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - titulossdnjdvdvdd</title>
+    <script type="importmap"></script>
+    
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PrimeiroProjetoMVC.styles.css" asp-append-version="true"/>
+</head>
+
+<body>
+    <nav>
+        <a asp-controller="Home" asp-action="Index">Início</a>
+        <a asp-controller="Eventos" asp-action="Criar">Criar</a>
+        <a asp-controller="" asp-action="Saudacao">676767</a>
+        <a asp-controller="" asp-action="Index">676767</a>
+        <a asp-controller="" asp-action="Criar">676767</a>
+        <a asp-controller="" asp-action="Buscar">676767</a>
+    </nav>
+
+    <hr />
+    @RenderBody()
+   
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>
