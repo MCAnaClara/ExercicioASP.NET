@@ -19,10 +19,7 @@ C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\Exerci
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\scopedcss\bundle\ExerciciosPt2.styles.css
-C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\scopedcss\projectbundle\ExerciciosPt2.bundle.scp.css
-C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\c4vo5dclhh-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\zamo9edz5r-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\j7yzgyjgoa-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\3rynwa1a5r-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -84,8 +81,6 @@ C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compre
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\0cpums3m95-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\v12lnc7but-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\qgcmz0zlz7-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\cqie39niyi-{0}-hm4nzb34yo-hm4nzb34yo.gz
-C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\vc13jctmx8-{0}-hm4nzb34yo-hm4nzb34yo.gz
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\staticwebassets.development.json
@@ -96,3 +91,4 @@ C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\refint
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\ExerciciosPt2.pdb
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\ExerciciosPt2.genruntimeconfig.cache
 C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\ref\ExerciciosPt2.dll
+C:\Users\42691658805\Desktop\aulas_2DM-26\ExerciciosPt2\obj\Debug\net10.0\compressed\c4vo5dclhh-{0}-l3e3i4zwfe-l3e3i4zwfe.gz

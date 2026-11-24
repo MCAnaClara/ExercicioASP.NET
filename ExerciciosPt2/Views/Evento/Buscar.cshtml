@@ -1,0 +1,40 @@
+@using ExerciciosPt2.ViewModels
+
+
+@model BuscaEventoViewModel
+@{
+    ViewData["Title"] = "Buscar Aluno";
+}
+
+
+<h1>Buscar Evento</h1>
+
+
+<form asp-action="Buscar" method="post">
+    <input asp-for="NomeBusca" placeholder="Nome do evento...">
+    <button type="submit">Buscar</button>
+</form>
+
+
+@if(Model.Resultados.Any())
+{
+    <table>
+    <tr>
+        <th>Nome</th>
+        <th>Local</th>
+        <th>Data</th>
+        <th>Valor do ingresso</th>
+
+
+    </tr>
+    @foreach (Evento evento in Model.Resultados)
+    {
+        <tr>
+            <td>@evento.Nome</td>
+            <td>@evento.Local</td>
+            <td>@evento.DataEvento</td>
+            <td>@evento.ValorIngresso</td>
+        </tr>
+    }
+</table>
+}

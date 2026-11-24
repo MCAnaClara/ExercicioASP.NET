@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ExerciciosPt2.Models
 {
-    public class EventoViewModel
+    public class Evento
     {
         public int Id { get; set; }
 
